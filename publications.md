@@ -7,7 +7,8 @@ For an up-to-date publication list see my Google scholar profile
 
 *Accepted journal articles and preprints*
 
-*Indicates PhD students I co-supervised; $Indicates Masters students I supervised
+*Indicates PhD students I co-supervised
+$Indicates Masters students I supervised
 
 28. Amano, T., Espinola, V.B., Christie, A.P., Willott, K., Akasaka, M., Báldi, A., Berthinussen, A., Bertolino, S., Bladon, A.J., Chen, M., Choi, C.-Y., Kharrat, M.B.D., de Oliveira, L.G., Farhat, P., Golivets, M., Aranzamendi, N.H., Jantke, K., Kajzer-Bonk, J., Çisel Kemahlı Aytekin, M., Khorozyan, I., Kito, K., Konno, K., Lin, D.-L., Littlewood, N., Liu, Y., Liu, Y., Loretto, M.-C., Marconi, V., Martin, P.A., Morgan, W.H., Narváez-Gómez, J.P., Negret, P.J., Nourani, E., Ochoa Quintero, J.M., Ockendon, N., Oh, R.R.Y., Petrovan, S., Piovezan-Borges, A.C., Pollet, I.L., Ramos, D.L., Reboredo Segovia, A.L., Nayelli Rivera-Villanueva, A., Rocha, R., Rouyer, M.-M., Sainsbury, K.A., Schuster, R., Schwab, D., Şekercioğlu, Ç.H., Seo, H., Shackelford, G., Shinoda, Y., Smith, R.K., Tao, S.-D., Tsai, M.-S., Tyler, E., Vajna, F., Valdebenito, J.O., Vozykova, S., Waryszak, P., Zamora-Gutierrez, V., Zenni, R.D., Zhou, W. & Sutherland, W.J. (2021) Tapping into non-English-language science for the conservation of global biodiversity. bioRxiv, 2021.05.24.445520.
 
@@ -41,6 +42,8 @@ For an up-to-date publication list see my Google scholar profile
 3. Spake, R.*, Ezard, T. H. G., Martin, P. A., Newton, A. C., & Doncaster, C. P. (2015). A meta-analysis of functional group responses to forest recovery outside of the tropics. Conservation Biology, 29(6), 1695–1703. doi:10.1111/cobi.12548. Citations: 45
 2. Martin, P. A., Newton, A. C., Pfeifer, M., Khoo, M., & Bullock, J. M. (2015). Impacts of tropical selective logging on carbon storage and tree species richness: A meta-analysis. Forest Ecology and Management, 356, 224–233. doi:10.1016/j.foreco.2015.07.010. Citations: 77
 1. Martin, P. A., Newton, A. C., & Bullock, J. M. (2013). Carbon pools recover more quickly than plant biodiversity in tropical secondary forests. Proceedings of the Royal Society B: Biological Sciences, 280(1773), 20132236–20132236. doi:10.1098/rspb.2013.2236 - Citations: 228
+
+{: reversed="reversed"}
 
 *Books/book chapters*
 
