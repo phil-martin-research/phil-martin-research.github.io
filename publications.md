@@ -7,7 +7,7 @@ For an up-to-date publication list see my Google scholar profile
 
 ### Accepted journal articles and preprints
 
-*Indicates PhD students I co-supervised
+*Indicates PhD students I co-supervised   
 $Indicates Masters students I supervised
 
 1. Amano, T. et al (2021) apping into non-English-language science for the conservation of global biodiversity. PLOS Biology 19(10): e3001296. [https://doi.org/10.1371/journal.pbio.3001296](https://doi.org/10.1371/journal.pbio.3001296)
