@@ -10,7 +10,7 @@ For an up-to-date publication list see my Google scholar profile
 *Indicates PhD students I co-supervised
 $Indicates Masters students I supervised
 
-0. Amano, T. et al (2021) apping into non-English-language science for the conservation of global biodiversity. PLOS Biology 19(10): e3001296. [https://doi.org/10.1371/journal.pbio.3001296](https://doi.org/10.1371/journal.pbio.3001296)
+1. Amano, T. et al (2021) apping into non-English-language science for the conservation of global biodiversity. PLOS Biology 19(10): e3001296. [https://doi.org/10.1371/journal.pbio.3001296](https://doi.org/10.1371/journal.pbio.3001296)
 0. Christie, A.P*. et al (2021) Reducing publication delay to improve the efficiency and impact of conservation science. bioRxiv, 2021.03.30.437223.
 0. Kemp, L. et al (2021) 80 questions for UK biological security. PLoS One. [https://doi.org/10.1371/journal.pone.02411909](https://doi.org/10.1371/journal.pone.0241190)
 0. Shackelford et al (2021) Dynamic meta-analysis: a method of using global evidence for local decision making. BMC Biology. 19, 33. [https://doi.org/10.1186/s12915-021-00974-w](https://doi.org/10.1186/s12915-021-00974-w)
