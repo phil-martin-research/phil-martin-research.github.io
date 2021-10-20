@@ -12,7 +12,7 @@ For an up-to-date publication list see my [Google scholar profile](https://schol
 *Indicates PhD students I co-supervised   
 $Indicates Masters students I supervised
 
-1. Christie, A.P., White, T.B., Martin, P.A., Petrovan, S.O., Bladon, A.J., Bowkett, A.E., Littlewood, N.A., Mupepele, A.-C., Rocha, R., Sainsbury, K.A., Smith, R.K., Taylor, N.G. & Sutherland, W.J. (2021) Reducing publication delay to improve the efficiency and impact of conservation science. PeerJ, 9, e12245.[https://doi.org/10.7717/peerj.12245](https://doi.org/10.7717/peerj.12245)
+1. Christie, A.P., White, T.B., **Martin, P.A.**, Petrovan, S.O., Bladon, A.J., Bowkett, A.E., Littlewood, N.A., Mupepele, A.-C., Rocha, R., Sainsbury, K.A., Smith, R.K., Taylor, N.G. & Sutherland, W.J. (2021) Reducing publication delay to improve the efficiency and impact of conservation science. PeerJ, 9, e12245.[https://doi.org/10.7717/peerj.12245](https://doi.org/10.7717/peerj.12245)
 2. De Faria, B.L., Staal, A., Silva, C.A., **Martin, P.A.**, Panday, P.K., Dantas, V.L. & Silva, T. (2021) Climate change and deforestation increase the vulnerability of Amazonian forests to post‐fire grass invasion. Global ecology and biogeography: a journal of macroecology.[https://doi.org/10.1111/geb.13388](https://doi.org/10.1111/geb.13388)
 3. Amano, T., Berdejo-Espinola, V., Christie, A.P., ... **Martin, P.A.**, ... & Sutherland, W.J. (2021) Tapping into non-English-language science for the conservation of global biodiversity. PLOS Biology 19(10): e3001296. [https://doi.org/10.1371/journal.pbio.3001296](https://doi.org/10.1371/journal.pbio.3001296)
 4. Christie, A.P*. et al (2021) Reducing publication delay to improve the efficiency and impact of conservation science. bioRxiv, 2021.03.30.437223.
