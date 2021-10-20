@@ -5,8 +5,6 @@ title: Publications
 
 For an up-to-date publication list see my [Google scholar profile](https://scholar.google.co.uk/citations?user=4M1G6yUAAAAJ&hl=en).
 
-### Preprints
-
 ### Peer-reviewed papers
 
 *Indicates PhD students I co-supervised   
@@ -44,7 +42,7 @@ $Indicates Masters students I supervised
 
 ### Books/book chapters
 
-1. Martin P.A., Rocha R., Smith R.K., & Sutherland W.J. (2017) Shrubland and heathland conservation: Global Evidence for the Effects of Interventions. Synopses of Conservation Evidence Series. University of Cambridge, Cambridge, UK. Citations: 0
-2.  Littlewood, N.A., Rocha, R., Smith, R.K., Martin, P.A., Lockhart, S.L., Schoonover, R.F., Wilman, E., Bladon, A.J., Sainsbury, K.A., Pimm, S. and Sutherland, W.J., 2020. Terrestrial Mammal Conservation: Global Evidence for the Effects of Interventions for Terrestrial Mammals Excluding Bats and Primates. Open Book Publishers. Citations: 0
-3. Martin, P.A., Ockendon, N., Berthinussen, A., Smith, R.K., and Sutherland, W.J. (2021) Grassland Conservation: Global evidence for the effects of selected interventions Synopses of Conservation Evidence Series. University of Cambridge, Cambridge, UK. Citations: 0
+1. **Martin P.A.**, Rocha R., Smith R.K., & Sutherland W.J. (2017) Shrubland and heathland conservation: Global Evidence for the Effects of Interventions. Synopses of Conservation Evidence Series. University of Cambridge, Cambridge, UK. Citations: 0
+2.  Littlewood, N.A., Rocha, R., Smith, R.K., **Martin, P.A.**, Lockhart, S.L., Schoonover, R.F., Wilman, E., Bladon, A.J., Sainsbury, K.A., Pimm, S. and Sutherland, W.J., 2020. Terrestrial Mammal Conservation: Global Evidence for the Effects of Interventions for Terrestrial Mammals Excluding Bats and Primates. Open Book Publishers. Citations: 0
+3. **Martin, P.A.**, Ockendon, N., Berthinussen, A., Smith, R.K., and Sutherland, W.J. (2021) Grassland Conservation: Global evidence for the effects of selected interventions Synopses of Conservation Evidence Series. University of Cambridge, Cambridge, UK. Citations: 0
 
