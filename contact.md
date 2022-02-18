@@ -2,13 +2,10 @@ I'm always interested in discussing new collaborations so if you're interested i
 
 If you're a student interested in working with me, I'd love to have a chat with you! If you want to work with me on a project make sure your email explains why you're getting in touch with me specifically, and make sure to share a bit about yourself.
 
-
-Basque Centre for Climate Change (BC3),  
-Edificio sede no 1, planta 1,  
-Parque científico UPV/EHU,  
-Barrio Sarriena s/n,  
-48940,  
-Leioa,  
+Address:
+Basque Centre for Climate Change (BC3),    
+Parque científico UPV/EHU, 
+48940 Leioa,  
 Bizkaia,  
 Spain.
 
