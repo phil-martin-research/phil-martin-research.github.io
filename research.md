@@ -11,6 +11,7 @@ Some of my previous work on this topic includes:
 * [The impacts of tropical selective logging on carbon storage and tree biodiversity](https://www.sciencedirect.com/science/article/abs/pii/S0378112715003837)
 
 
+
 ### Identifying solutions
 
 Despite the fact that conservation in a mission-driven discipline, relatively few papers on the topic attempt to identify and test solutions to environmental problems. My work in this area has mainly focused on identifying what works best when trying to solve environmental problems and providing decision-support for practitioners.
