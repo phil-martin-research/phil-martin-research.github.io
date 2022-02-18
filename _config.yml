@@ -249,6 +249,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-maps
+  
+  maps:
+  google:
+    api_key: <AIzaSyCi7f35_J2NDOmSkdVxzZ22mW7YhCrVe44>
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
