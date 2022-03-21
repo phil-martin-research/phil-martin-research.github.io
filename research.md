@@ -1,4 +1,4 @@
-I'm interested in lots of different topics in applied ecology, but my research focuses on two major topics: assessing human impacts on ecosystems and identifying solutions to these problems. I’ve used lots of different methods to investigate these topics, but I am particularly experienced in using evidence synthesis techniques such as systematic review, systematic mapping, and meta-analysis. I am especially interested exploring these tropics in the context of forest management and restoration.
+I'm interested in lots of different topics in applied ecology, but my research focuses on two major topics: assessing human impacts on ecosystems and identifying solutions to these problems. I’ve used lots of different methods to investigate these topics, but I am particularly experienced in using evidence synthesis techniques such as systematic review, systematic mapping, and meta-analysis. I am especially interested exploring these topics in the context of forest management and restoration.
 
 ### Human-induced impacts
 
