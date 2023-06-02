@@ -12,11 +12,11 @@ Yanis is a student at Ecole Normale Supérieure and is working on a meta-analysi
 ## Former team members
 
 ### Jasper Arendse
-<img style="float: left;" src="assets/img/Jasper_300_circle.png" width="150">
+![Japser](assets/img/Jasper_300_circle.png)
 Jasper was a student at Vrije Universiteit Amsterdam and worked on an umbrella review of the impacts of precipitation increases and decreases on forest soil properties. We will use this work to build a large umbrella review, comparing multiple meta-analyses, to investigate the impacts of a wide range of disturbances on forest soils.
 
 ### Leo fisher
-<img style="float: left;" src="assets/img/Leo_300_circle.png" width="150">
+![Leo](assets/img/Leo_300_circle.png)
 Leo was a student at UCL who worked on a systematic review investigating the impacts of precipitation increases and decreases on soil and litter invertebrates in forests. We are currently preparing this work for publication.
 
 
