@@ -6,8 +6,7 @@ Working with students is one of the best parts of my job. Below you can find a b
 ## Current team members
 
 ### Yanis Hemeray
-<img style="float: left;" src="https://github.com/phil-martin-research/phil-martin-research.github.io/blob/master/assets/img/Yanis_300_circle.png" width="150">
-<img src="https://github.com/phil-martin-research/phil-martin-research.github.io/blob/master/assets/img/Yanis_300_circle.png" width="150"><div style="text-align: right"> your-text-here </div>
+<img style="float: left;" src="https://github.com/phil-martin-research/phil-martin-research.github.io/blob/master/assets/img/Yanis_300_circle.png" width="150"><div style="text-align: right"> your-text-here </div>
 
 Yanis is a student at Ecole Normale Supérieure and is working on a meta-analysis looking at the impacts of forest fires on ants.
 
