@@ -6,7 +6,7 @@ Working with students is one of the best parts of my job. Below you can find a b
 ## Current team members
 
 #### Tiffany Cheung
-![Tiffany](assets/img/Tiffany_300_circle.png)
+![Tiffany](assets/img/Tiff_300_circle.png)
 
 Tiffany is a masters student at UCL in London and is working on a meta-analysis looking at the impacts of forest fires on earthworms and spiders.
 
