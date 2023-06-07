@@ -12,9 +12,7 @@ Working with students is one of the best parts of my job. Below you can find a b
 ## Former team members
 
 ### Jasper Arendse
-![Japser](assets/img/Jasper_300_circle.png)
-
-Jasper was a student at Vrije Universiteit Amsterdam and worked on an umbrella review of the impacts of precipitation increases and decreases on forest soil properties. We will use this work to build a large umbrella review, comparing multiple meta-analyses, to investigate the impacts of a wide range of disturbances on forest soils.
+<img src="assets/img/Jasper_300_circle.png" alt="Jasper" width="150" style="float: left"> Jasper was a student at Vrije Universiteit Amsterdam and worked on an umbrella review of the impacts of precipitation increases and decreases on forest soil properties. We will use this work to build a large umbrella review, comparing multiple meta-analyses, to investigate the impacts of a wide range of disturbances on forest soils.
 
 ### Leo fisher
 ![Leo](assets/img/Leo_300_circle.png)
