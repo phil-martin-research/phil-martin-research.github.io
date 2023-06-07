@@ -7,7 +7,12 @@ Working with students is one of the best parts of my job. Below you can find a b
 
 ### Yanis Hemeray
 
-<img src="assets/img/Yanis_300_circle.png" alt="drawing" width="200" style="float:left" /> Yanis is a student at Ecole Normale Supérieure and is working on a meta-analysis looking at the impacts of forest fires on ants.
+<p>
+<img src="assets/img/Yanis_300_circle.png" alt="drawing" width="200" style="float:left" />
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.  
+</p>
+
+ Yanis is a student at Ecole Normale Supérieure and is working on a meta-analysis looking at the impacts of forest fires on ants.
 
 
 
