@@ -6,7 +6,7 @@ Working with students is one of the best parts of my job. Below you can find a b
 ## Current team members
 
 ### Yanis Hemeray
-![Yanis](assets/img/Yanis_300_circle.png){:height="200px" width="200px"}
+![Yanis](assets/img/Yanis_300_circle.png | width=100){:height="200px" width="200px"}
 Yanis is a student at Ecole Normale Supérieure and is working on a meta-analysis looking at the impacts of forest fires on ants.
 
 ## Former team members
