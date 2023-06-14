@@ -18,7 +18,7 @@ Yanis is a student at Ecole Normale Supérieure in Paris and is working on a met
 #### Niamh Tapper
 ![Tiffany](assets/img/Niamh_300_circle.png)
 
-Niamh is a masters student at Imperial College and is working on a meta-analysis looking at the impacts of fires on dung beetles.
+Niamh is a masters student at Imperial College London who is particularly interested in the impacts of climate change and other anthropogenic disturbances on tropical ecosystems. She is currently working on a meta-analysis looking at the impacts of fires on dung beetles.
 
 ## Former team members
 
