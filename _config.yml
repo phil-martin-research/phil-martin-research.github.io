@@ -21,7 +21,7 @@ author: Phil Martin
 
 navbar-links:
   People: "people"
-  Research: "research"
+  # Research: "research"
   Papers: "papers"
   Contact: "contact"
 
