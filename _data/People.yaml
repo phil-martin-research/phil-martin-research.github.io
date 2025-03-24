@@ -1,14 +1,14 @@
 Team_Leader:
 - name: Phil Martin
   desc: I'm an Ikerbasque Research Fellow at thhe Basque Centre for Climate Change (BC3). My research focuses on how to balance environmental and social priorities in forests and the evidence we need to do this.
-  img: "/assets/img/people/Phil_square.png"
+  img: "/assets/img/people/Phil_square.jpeg"
   email: "phil.martin.research@gmail.com"
   googlescholar: "https://scholar.google.co.uk/citations?user=4M1G6yUAAAAJ&hl=en"
   github: "https://github.com/phil-martin-research/"
 Current_Members:
 - name: Eñaut Martinez de Birgara (PhD Student)
-  desc: I am a PhD student at the Basque Centre for Climate Change (BC3). My research focuses how we can meet the challenges of carbon mitigation, ecosystem adaptation, and ecosystem service provision northern Iberian forests.
-  img: "/assets/img/people/Eñaut_square.png"
+  desc: I'm a PhD student at BC3 where my research focuses how to meet the challenges of carbon mitigation, ecosystem adaptation, and ecosystem service provision northern Iberian forests.
+  img: "/assets/img/people/Eñaut_square.jpeg"
 
 Past_Members:
 - name: Yanis Hemeray (Masters)
