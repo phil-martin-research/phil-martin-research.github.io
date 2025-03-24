@@ -1,13 +1,13 @@
 Team_Leader:
-- name: Hannah Wauchope
-  desc: I'm a Lecturer in Ecology & Conservation at the University of Edinburgh. My research focuses on how we measure biodiversity and the impacts we have upon it.
+- name: Phil Martin
+  desc: I'm an Ikerbasque Research Fellow at thhe Basque Centre for Climate Change (BC3). My research focuses on how to balance environmental and social priorities in forests and the evidence we need to do this.
   img: "/assets/img/Phil_Noah_circle_small.png"
   email: "phil.martin.research@gmail.com"
   googlescholar: "https://scholar.google.co.uk/citations?user=4M1G6yUAAAAJ&hl=en"
   github: "https://github.com/phil-martin-research/"
 Current_Members:
 - name: Eñaut Martinez de Birgara (PhD Student)
-  desc: I am a PhD student at the Basque Centre for Climate Change (BC3). I am interested human use of forests and how this can be made more sustainable in the context of global change. My research focuses on how Climate Smart Forestry (CSF) can be used to meet the challenges of carbon mitigation, ecosystem adaptation and ecosystem service provision to achieve sustainable, biodiverse and productive forests in northern Iberian Peninsula. Many approaches have been proposed but it is still unclear how CSF could be implemented. I aim to synthesise CSF proposals and forest management knowledge in order to produce outputs that are practically useful forestry management and policy. I also intend to understand how decision making is driven and how evidence can influence forestry practitioners.
+  desc: I am a PhD student at the Basque Centre for Climate Change (BC3). My research focuses on how Climate Smart Forestry (CSF) can be used to meet the challenges of carbon mitigation, ecosystem adaptation and ecosystem service provision to achieve sustainable, biodiverse and productive forests in northern Iberian Peninsula.
   img: "/assets/img/Eñaut_300_circle.png"
 
 Past_Members:
@@ -25,4 +25,4 @@ Past_Members:
   img: "/assets/img/Leo_300_circle.png"
 - name: Jasper Arendse (Masters)
   desc: Jasper was a masters student based at Vrije Universiteit Amsterdam and worked on a large synthesis project investigating the impacts of precipitation changes soil and litter properties in forests. We are currently working on turning this project into a paper.
-  img: "/assets/img/Leo_300_circle.png"
+  img: "/assets/img/Jasper_300_circle.png"
