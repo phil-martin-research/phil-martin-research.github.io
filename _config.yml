@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Home
 
 # Your name to show in the footer
-author: Some Person
+author: Phil Martin
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,9 @@ author: Some Person
 
 navbar-links:
   People: "people"
+  Research: "research"
   Papers: "papers"
+  Coctact: "contact
 
 ################
 # --- Logo --- #
