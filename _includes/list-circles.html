@@ -1,0 +1,76 @@
+<div class="list-circles">
+  {% for item in include.items %}
+    <div class="list-circles-item">
+      {% if item.img %}
+        {% if item.url %}
+          <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" /></a>
+        {% else %}
+          <img src="{{ item.img }}" class="item-img" />
+        {% endif %}
+      {% else %}
+          <img src="{{ page.default_profile_img }}" class="item-img" />
+      {% endif %}
+      {% if item.name %}
+        <h4 class="item-name">{{ item.name }}</h4>
+      {% endif %}
+      {% if item.desc %}
+        <div class="item-desc">{{ item.desc }}</div>
+      {% endif %}
+      <div class="item-links">
+        {% if item.website %}
+          <a class="item-link" href="{{ item.website }}" title="Website">
+            <span class="fa fa-home"></span>
+          </a>
+        {% endif %}
+        {% if item.github %}
+          <a class="item-link" href="{{ item.github }}" title="GitHub">
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+          </a>
+        {% endif %}
+        {% if item.twitter %}
+          <a class="item-link" href="{{ item.twitter }}" title="x (Twitter)">
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+          </a>
+        {% endif %}
+        {% if item.linkedin %}
+          <a class="item-link" href="{{ item.linkedin }}" title="LinkedIn">
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+          </a>
+        {% endif %}
+        {% if item.email %}
+          <a class="item-link" href="mailto:{{ item.email }}" title="Email">
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        {% endif %}
+        {% if item.bluesky %}
+          <a class="item-link" href="{{ item.bluesky }}" title="BlueSky">
+               <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
+        </span>
+          </a>
+        {% endif %}
+        {% if item.googlescholar %}
+          <a class="item-link" href="{{ item.googlescholar }}" title="GoogleScholar">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+              </span>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
