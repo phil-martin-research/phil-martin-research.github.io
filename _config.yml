@@ -97,12 +97,12 @@ share-links-active:
   facebook: true
   linkedin: true
   email: true
-  github: trure
+  github: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "phil-martin-research.github.io"
+url-pretty: "www.phil-martin-research.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
