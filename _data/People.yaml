@@ -1,44 +1,28 @@
 Team_Leader:
 - name: Hannah Wauchope
   desc: I'm a Lecturer in Ecology & Conservation at the University of Edinburgh. My research focuses on how we measure biodiversity and the impacts we have upon it.
-  img: "/assets/img/people/Me.jpg"
-  email: "hannah.wauchope@ed.ac.uk"
-  googlescholar: "https://scholar.google.com.au/citations?user=ETK2W0IAAAAJ&hl=en"
-  github: "http://github.com/hannahwauchope"
+  img: "/assets/img/Phil_Noah_circle_small.png"
+  email: "phil.martin.research@gmail.com"
+  googlescholar: "https://scholar.google.co.uk/citations?user=4M1G6yUAAAAJ&hl=en"
+  github: "https://github.com/phil-martin-research/"
 Current_Members:
-- name: Francesca Fehblerg (PhD Student)
-  desc: I'm a PhD student based at the University of Edinburgh. My research uses passive acoustic monitoring to understand how various restoration and vegetation types impact avian species richness in the West Sudanian Savannas of Africa.
-  img: "/assets/img/people/Cess.jpg"
-  linkedin: "http://linkedin.com/in/francesca-sophia-fehlberg-a947671a3"
-- name: Tani Hackney (PhD Student)
-  desc: I'm a PhD student based primarily at the University of Bristol. My research uses large global datasets to understand the efficacy of protected areas in promoting functional diversity and resilience of waterbird populations, especially in facilitating their ability to resist and recover from current and future threats.
-  img: "/assets/img/people/Tani.jpg"
-  website: "https://tanithhackney.wordpress.com/"
-  twitter: "https://twitter.com/TaniBrishan"
-  email: "tanith.hackney@bristol.ac.uk"
-- name: Iona Selman (Masters by Research Student)
-  desc: I am a Masters by Research student based at the University of Exeter. My research uses agent-based modelling to explore the impacts of climate change and coat colour mismatch on snowshoe hare population cycles.
-  img: "/assets/img/people/Iona.jpg"
-  bluesky: "https://bsky.app/profile/ionaselman.bsky.social"
-- name: Felipe Espinoza (PhD Student)
-  desc: I'm an engineer and ecologist, former species manager currently doing a PhD. My research focuses on the estimation of per-unit-effects of invasive species worldwide and everything in between. Fun.
-  img: "/assets/img/people/Felipe.jpg"
-- name: Niamh Gurrin (PhD Student)
-  desc: I’m a chemistry PhD candidate in the University of Edinburgh. My research focuses on biogeochemical cycles in peaty streams, particularly using high resolution analyses to assess the fluctuating composition of dissolved organic matter.
-  img: "/assets/img/people/Niamh.png"
-  email: "N.Gurrin@sms.ed.ac.uk"
-- name: Eve Anthoney (PhD Student)
-  desc: I’m a PhD student based at the University of Edinburgh. My research involves modelling the distribution of invasive plant species across the French Polynesian Islands and investing the role of climatic, geographic, and socioeconomic factors in driving plant invasion.
-  img: "/assets/img/people/Eve.jpeg"
+- name: Eñaut Martinez de Birgara (PhD Student)
+  desc: I am a PhD student at the Basque Centre for Climate Change (BC3). I am interested human use of forests and how this can be made more sustainable in the context of global change. My research focuses on how Climate Smart Forestry (CSF) can be used to meet the challenges of carbon mitigation, ecosystem adaptation and ecosystem service provision to achieve sustainable, biodiverse and productive forests in northern Iberian Peninsula. Many approaches have been proposed but it is still unclear how CSF could be implemented. I aim to synthesise CSF proposals and forest management knowledge in order to produce outputs that are practically useful forestry management and policy. I also intend to understand how decision making is driven and how evidence can influence forestry practitioners.
+  img: "/assets/img/Eñaut_300_circle.png"
+
 Past_Members:
-- name: Joe Everest (PhD)
-  desc: Now a Conservation Scientist at RSPB! (During my PhD I used novel approaches and datasets to better understand and characterise vegetation functional diversity throughout the Arctic and alpine tundra).
-  linkedin: "https://www.linkedin.com/in/josephjeverest/?originalSubdomain=uk"
-  email: "joseph.everest@ed.ac.uk"
-  img: "/assets/img/people/Joe.jpg"
-- name: Ciaran (Masters)
-  desc: Project Title - "Did early civilisations determine how tree species spread through Europe?" (Not actually a toucan)
-  img: "/assets/img/people/Ciaran.jpg"
-- name: Olivia (Masters)
-  desc: Project Title - "Factors affecting protected area performance for UK waterbirds" (Not actually an anteater)
-  img: "/assets/img/people/Olivia.jpg"
+- name: Yanis Hemeray (Masters)
+  desc: Yanis was a masters student based at the Ecole Normale in Paris and worked on a project investigating the impacts of forest fires on ants.
+  img: "/assets/img/Yanis_300_circle.png"
+- name: Tiff Cheung (Masters)
+  desc: Tiff was a masters student based at University College London and worked on a project investigating the impacts of forest fires on spiders and earthworms.
+  img: "/assets/img/Tiff_300_circle.png"
+- name: Niamh Tapper (Masters)
+  desc: Tiff was a masters student based at Imperial College London and worked on a project investigating the impacts of forest fires on dung beetles.
+  img: "/assets/img/Niamh_300_circle.png"
+- name: Leo Fisher (Masters)
+  desc: Leo was a masters student based at University College London and worked on a project investigating the impacts of precipitation changes on soil and litter fauna in forests [that went on to be published in Global Change Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17305).
+  img: "/assets/img/Leo_300_circle.png"
+- name: Jasper Arendse (Masters)
+  desc: Jasper was a masters student based at Vrije Universiteit Amsterdam and worked on a large synthesis project investigating the impacts of precipitation changes soil and litter properties in forests. We are currently working on turning this project into a paper.
+  img: "/assets/img/Leo_300_circle.png"
