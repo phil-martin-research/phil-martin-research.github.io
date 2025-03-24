@@ -1,28 +1,28 @@
 Team_Leader:
 - name: Phil Martin
   desc: I'm an Ikerbasque Research Fellow at thhe Basque Centre for Climate Change (BC3). My research focuses on how to balance environmental and social priorities in forests and the evidence we need to do this.
-  img: "/assets/img/Phil_Noah_circle_small.png"
+  img: "/assets/img/people/Phil_square.png"
   email: "phil.martin.research@gmail.com"
   googlescholar: "https://scholar.google.co.uk/citations?user=4M1G6yUAAAAJ&hl=en"
   github: "https://github.com/phil-martin-research/"
 Current_Members:
 - name: Eñaut Martinez de Birgara (PhD Student)
   desc: I am a PhD student at the Basque Centre for Climate Change (BC3). My research focuses how we can meet the challenges of carbon mitigation, ecosystem adaptation, and ecosystem service provision northern Iberian forests.
-  img: "/assets/img/Eñaut_300_circle.png"
+  img: "/assets/img/people/Eñaut_square.png"
 
 Past_Members:
 - name: Yanis Hemeray (Masters)
   desc: Yanis was a masters student based at the Ecole Normale in Paris and worked on a project investigating the impacts of forest fires on ants.
-  img: "/assets/img/Yanis_300_circle.png"
+  img: "/assets/img/people/Yanis_square.png"
 - name: Tiff Cheung (Masters)
   desc: Tiff was a masters student based at University College London and worked on a project investigating the impacts of forest fires on spiders and earthworms.
-  img: "/assets/img/Tiff_300_circle.png"
+  img: "/assets/img/people/Tiff_square.png"
 - name: Niamh Tapper (Masters)
   desc: Tiff was a masters student based at Imperial College London and worked on a project investigating the impacts of forest fires on dung beetles.
-  img: "/assets/img/Niamh_300_circle.png"
+  img: "/assets/img/people/Niamh_square.png"
 - name: Leonora Fisher (Masters)
   desc: Leo was a masters student based at University College London and worked on a project investigating the impacts of precipitation changes on soil and litter fauna in forests.
-  img: "/assets/img/Leo_300_circle.png"
+  img: "/assets/img/people/Leo_square.jpg"
 - name: Jasper Arendse (Masters)
   desc: Jasper was a masters student based at Vrije Universiteit Amsterdam and worked on a large synthesis project investigating the impacts of precipitation changes soil and litter properties in forests. We are currently working on turning this project into a paper.
-  img: "/assets/img/Jasper_300_circle.png"
+  img: "/assets/img/people/Jasper_square.jpg"
