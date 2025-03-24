@@ -49,7 +49,8 @@ Sutherland, W. J., Taylor,  N. G. , Aldridge, D. C., **Martin, P.A.**, C. Rhodes
 
 Christie, A.P£., White, T.B., **Martin, P.A.**, Petrovan, S.O., Bladon, A.J., Bowkett, A.E., Littlewood, N.A., Mupepele, A.-C., Rocha, R., Sainsbury, K.A., Smith, R.K., Taylor, N.G. & Sutherland, W.J. (2021) Reducing publication delay to improve the efficiency and impact of conservation science. PeerJ 9:e12245.  doi: 10.7717/peerj.12245
 
-Kemp, L., Aldridge, D.C., Booy, O., Bower, H., Browne, D., Burgmann, M., Burt, A., Cunningham, A.A., Dando, M., Dick, J.T.A., Dye, C., Weiss Evans, S., Gallardo, B., Godfray, H.C.J., Goodfellow, I., Gubbins, S., Holt, L.A., Jones, K.E., Kandil, H., **Martin, P.A.**, McCaughan, M., McLeish, C., Meany, T., Millett, K., ÓhÉigeartaigh, S.S., Patron, N.J., Rhodes, C., Roy, H.E., Shackelford, G., Smith, D., Spence, N., Steiner, H., Sundaram, L.S., Voeneky, S., Walker, J.R., Watkins, H., Whitby, S., Wood, J., Sutherland, W.J. (2021) 80 questions for UK biological security. PLoS One. doi: 10.1371/journal.pone.0241190; Citations: 10
+Kemp, L., Aldridge, D.C., Booy, O., Bower, H., Browne, D., Burgmann, M., Burt, A., Cunningham, A.A., Dando, M., Dick, J.T.A., Dye, C., Weiss Evans, S., Gallardo, B., Godfray, H.C.J., Goodfellow, I., Gubbins, S., Holt, L.A., Jones, K.E., Kandil, H., **Martin, P.A.**, McCaughan, M., McLeish, C., Meany, T., Millett, K., ÓhÉigeartaigh, S.S., Patron, N.J., Rhodes, C., Roy, H.E., Shackelford, G., Smith, D., Spence, N., Steiner, H., Sundaram, L.S., Voeneky, S., Walker, J.R., Watkins, H., Whitby, S., Wood, J., Sutherland, W.J. (2021) 80 questions for UK biological security. PLoS One. doi: 10.1371/journal.pone.0241190
+
 De Faria, B. L., Staal, A., Silva, C. A., **Martin, P. A.**, Panday, P. K., Dantas, V. L., Silva, T. (2021) Climate change and deforestation increase the vulnerability of Amazonian forests to post‐fire grass invasion. Global Ecology and Biogeography doi: 10.1111/geb.13388
 
 Shackelford, G.E., **Martin, P.A.**, Hood, A.S.C., Christie, A.P., Kulinskaya, E. & Sutherland, W.J. (2021) Dynamic meta-analysis: a method of using global evidence for local decision making. BMC Biology. 19, 33. 10.1186/s12915-021-00974-w
@@ -80,7 +81,8 @@ Jucker, T., Wintle, B., Shackelford, G., Bocquillon, P., Geffert, J. L., Kasoar,
 
 De Palma, A., Sanchez-Ortiz, K., **Martin, P. A.**, Chadwick, A., Gilbert, G., Bates, A. E., Purvis, A. (2018). Challenges with Inferring How Land-Use Affects Terrestrial Biodiversity: Study Design, Time, Space and Synthesis. Advances in Ecological Research, 58, 163. doi: 10.1016/bs.aecr.2017.12.004
 
-**Martin, P. A.**, Newton, A. C., Cantarello, E., & Evans, P. M.* (2017). Analysis of ecological thresholds in a temperate forest undergoing dieback. PLOS One. doi:10.1371/journal.pone.0189578. Citations: 7
+**Martin, P. A.**, Newton, A. C., Cantarello, E., & Evans, P. M.* (2017). Analysis of ecological thresholds in a temperate forest undergoing dieback. PLOS One. doi:10.1371/journal.pone.0189578.
+
 Evans, P. M£, Newton, A. C., Cantarello, E., **Martin, P. A.**, Sanderson, N., Jones, D. L., Fuller, L. (2017). Thresholds of biodiversity and ecosystem function in a forest ecosystem undergoing dieback. Scientific Reports, 7(January), 1–9. doi:10.1038/s41598-017-06082-6
 
 Cantarello, E., Newton, A., **Martin, P.A.**, Evans, P.*, Gosal, A.*, & Lucash, M. (2017). Quantifying resilience of multiple ecosystem services and biodiversity in a temperate forest landscape. Ecology and Evolution, 00, 1–15. doi:10.1002/ece3.3491
@@ -89,7 +91,7 @@ Sayer, C. A. A.$, Bullock, J. M., & **Martin, P. A.** (2017). Dynamics of avian 
 
 **Martin, P. A.**, Newton, A. C., & Bullock, J. M. (2017). Impacts of invasive plants on carbon pools depend on both species’ traits and local climate. Ecology, 98(4), 1026–1035. doi:10.1002/ecy.1711
 
-**Martin, P.A.**, Jung, M., Brearley, F. Q., Ribbons, R. R., Lines, E. R., & Jacob, A. L. (2016). Can we set a global threshold age to define mature forests? PeerJ, 4, e1595. doi:10.7717/peerj.1595; Citations: 11
+**Martin, P.A.**, Jung, M., Brearley, F. Q., Ribbons, R. R., Lines, E. R., & Jacob, A. L. (2016). Can we set a global threshold age to define mature forests? PeerJ, 4, e1595. doi:10.7717/peerj.1595
 
 **Martin, P. A.**, Newton, A. C., Cantarello, E., & Evans, P. (2015). Stand dieback and collapse in a temperate forest and its impact on forest structure and biodiversity. Forest Ecology and Management, 358, 130–138. doi:10.1016/j.foreco.2015.08.033
 
