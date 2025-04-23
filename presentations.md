@@ -1,9 +1,8 @@
-# Giving presentations
+---
+title: Giving presentations
+---
 
 Most scientific presentations are **not good**. Most of them don't even approach good. I'm not even sure that most scientists even know what a good talk looks like. Although I don't think I can make all talks good, I can definately provide people with a recipe to make their talks better.
-
-
-
 
 
 When planning your talk, the following structure can be helpful
