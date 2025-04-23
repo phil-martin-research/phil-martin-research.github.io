@@ -1,4 +1,6 @@
-## Producing figures
+---
+title: Producing figures
+---
 
 ### Resources on producing figures
 * [Powerpoint presentation I gave on producing figures](https://github.com/phil-martin-research/researcher_resources/blob/main/masters_workshop_figures.pptx) 
