@@ -1,4 +1,6 @@
-## Writing
+---
+title: Writing
+---
 
 Good scientific writing is concise, precise, and interesting.
 
