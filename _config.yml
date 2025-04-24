@@ -23,8 +23,8 @@ navbar-links:
   People: "people"
   # Research: "research"
   Papers: "papers"
-  Contact: "contact"
   Resources: "resources"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
