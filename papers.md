@@ -7,12 +7,11 @@ For an up-to-date publication list please see my [Google scholar profile](https:
 
 ### Preprints
 
+**Martin, P.A.**, Pérez-Izquierdo, L., Biryol, C., Brasseur, S., Li, Q., Aviles, I. L., Luyssaert, S., Geunet, B., Manzoni, S., Menival, C., Petritan, C., Spake, R., Santonja, M., & Yuste, J. C. (2025). A systematic map of forest disturbance impacts on soil and litter fauna: knowledge gaps and a roadmap for future research. In EcoEvoRxiv. https://ecoevorxiv.org/repository/view/9295/
+
 Moreaux, C., **Martin, P. A.**, Hereş, A., & Curiel Yuste, J. (2022). Effects of forestry practices on the conservation of soil and forest ecosystem health and functioning: an umbrella review protocol. OSF preprint, doi: 10.31219/osf.io/3w7mg
 
 **Martin, P.A.**, Izquierdo, L.P., Luyssaert, S., Guenet, B., Manzoni, S., Spake, R., Santonja, M. & Curiel Yuste, J. (2021) Effects of natural disturbances on soil fauna in forests: a systematic map protocol, OSF preprint doi: 10.17605/OSF.IO/YQU4W
-
-**Martin, P.A.**, Pérez-Izquierdo, L., Biryol, C., Brasseur, S., Li, Q., Aviles, I. L., Luyssaert, S., Geunet, B., Manzoni, S., Menival, C., Petritan, C., Spake, R., Santonja, M., & Yuste, J. C. (2025). A systematic map of forest disturbance impacts on soil and litter fauna: knowledge gaps and a roadmap for future research. In EcoEvoRxiv. https://ecoevorxiv.org/repository/view/9295/
-
 
 ### Accepted journal articles
 
