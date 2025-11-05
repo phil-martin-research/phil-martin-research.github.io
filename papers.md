@@ -11,9 +11,16 @@ Moreaux, C., **Martin, P. A.**, Hereş, A., & Curiel Yuste, J. (2022). Effects o
 
 **Martin, P.A.**, Izquierdo, L.P., Luyssaert, S., Guenet, B., Manzoni, S., Spake, R., Santonja, M. & Curiel Yuste, J. (2021) Effects of natural disturbances on soil fauna in forests: a systematic map protocol, OSF preprint doi: 10.17605/OSF.IO/YQU4W
 
+**Martin, P.A.**, Pérez-Izquierdo, L., Biryol, C., Brasseur, S., Li, Q., Aviles, I. L., Luyssaert, S., Geunet, B., Manzoni, S., Menival, C., Petritan, C., Spake, R., Santonja, M., & Yuste, J. C. (2025). A systematic map of forest disturbance impacts on soil and litter fauna: knowledge gaps and a roadmap for future research. In EcoEvoRxiv. https://ecoevorxiv.org/repository/view/9295/
+
+
 ### Accepted journal articles
 
 £ - PhD students I supervised/cosupervised, $ - Masters students I supervised
+
+Christie, A. P., **Martin, P. A.**, & Taylor, N. G. (2025). The impact and return-on-investment of evidence-based practice in conservation and environmental management: A machine learning-assisted scoping review protocol. PloS One, 20(6), e0326521. https://doi.org/10.1371/journal.pone.0326521
+
+Magrach, A., Tobajas, E., & **Martin, P. A.** (2025). Negative ecological impacts of honeybees begin at densities below recommended levels for crop pollination. The Journal of Applied Ecology, 1365-2664.70103. https://doi.org/10.1111/1365-2664.70103
 
 Artamendi, M., **Martin, P. A.**, Bartomeus, I., & Magrach, A. (2024). Loss of pollinator diversity consistently reduces reproductive success for wild and cultivated plants. Nature Ecology & Evolution, 1–18. https://doi.org/10.1038/s41559-024-02595-2
 
