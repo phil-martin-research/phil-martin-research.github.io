@@ -20,7 +20,7 @@ Moreaux, C., **Martin, P. A.**, Hereş, A., & Curiel Yuste, J. (2022). Effects o
 
 Christie, A. P., **Martin, P. A.**, & Taylor, N. G. (2025). The impact and return-on-investment of evidence-based practice in conservation and environmental management: A machine learning-assisted scoping review protocol. PloS One, 20(6), e0326521. https://doi.org/10.1371/journal.pone.0326521
 
-Magrach, A., Tobajas, E., & **Martin, P. A.** (2025). Negative ecological impacts of honeybees begin at densities below recommended levels for crop pollination. The Journal of Applied Ecology, 1365-2664.70103. https://doi.org/10.1111/1365-2664.70103
+Magrach, A., Tobajas, E., & **Martin, P. A.** (2025). Negative ecological impacts of honeybees begin at densities below recommended levels for crop pollination. Journal of Applied Ecology, 1365-2664.70103. https://doi.org/10.1111/1365-2664.70103
 
 Artamendi, M., **Martin, P. A.**, Bartomeus, I., & Magrach, A. (2024). Loss of pollinator diversity consistently reduces reproductive success for wild and cultivated plants. Nature Ecology & Evolution, 1–18. https://doi.org/10.1038/s41559-024-02595-2
 
