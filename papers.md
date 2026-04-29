@@ -7,7 +7,10 @@ For an up-to-date publication list please see my [Google scholar profile](https:
 
 ### Preprints
 
-**Martin, P.A.**, Pérez-Izquierdo, L., Biryol, C., Brasseur, S., Li, Q., Aviles, I. L., Luyssaert, S., Geunet, B., Manzoni, S., Menival, C., Petritan, C., Spake, R., Santonja, M., & Yuste, J. C. (2025). A systematic map of forest disturbance impacts on soil and litter fauna: knowledge gaps and a roadmap for future research. In EcoEvoRxiv. https://ecoevorxiv.org/repository/view/9295/
+**Martin, P.A.**, Amirmohammedi, F., Barreto, C., Berger, I., Bissessur, P., Christie, A. P., Donoso, I., Furlan, V., Grainger, M., Hartup, J., Keith, A. M., Ki, T. L. T., Luke, S. H., de Birgara, E. M., Matos, C., Moreno-Martin, A., Moser, V., Ollard, I., Oswald, A. M., … Oliver, K. (2026, February 2). Factors influencing the use of scientific evidence in conservation practice and policy: insights from a systematic map. EcoEvoRxiv. https://ecoevorxiv.org/repository/view/11644/ (in review at Journal of Applied Ecology)
+
+
+**Martin, P.A.**, Pérez-Izquierdo, L., Biryol, C., Brasseur, S., Li, Q., Aviles, I. L., Luyssaert, S., Geunet, B., Manzoni, S., Menival, C., Petritan, C., Spake, R., Santonja, M., & Yuste, J. C. (2025). A systematic map of forest disturbance impacts on soil and litter fauna: knowledge gaps and a roadmap for future research. In EcoEvoRxiv. https://ecoevorxiv.org/repository/view/9295/ (in review at Biological Reviews)
 
 Moreaux, C., **Martin, P. A.**, Hereş, A., & Curiel Yuste, J. (2022). Effects of forestry practices on the conservation of soil and forest ecosystem health and functioning: an umbrella review protocol. OSF preprint, doi: 10.31219/osf.io/3w7mg
 
